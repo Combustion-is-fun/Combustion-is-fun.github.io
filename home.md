@@ -7,7 +7,7 @@
 
 | Links |
 |--|
-| [[About]] |
+| [[about]] |
 | [[Articles]] |
 | [[Comedy]] |
 | [[News]] |
