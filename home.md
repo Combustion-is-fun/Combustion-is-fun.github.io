@@ -10,7 +10,7 @@
 | [[about]] |
 | [[Articles]] |
 | [[Comedy]] |
-| [[news]] |
+| [news] |
 | [[recommended_sites]] |
 
 guvhbvjbjbhjvbhjvgcftxtxtcfc
