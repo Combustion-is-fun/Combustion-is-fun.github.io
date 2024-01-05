@@ -10,9 +10,8 @@
 | Links |
 |--|
 | [about](about.md) |
-| [[Articles]] |
-| [[Comedy]] |
-| [news] |
+| Articles |
+| [Comedy](comedy.md) |
 | [recommended_sites](InterestingBytes/articles/recommended_sites.md) |
 
 | hello |
