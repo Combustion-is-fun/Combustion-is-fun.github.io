@@ -13,6 +13,6 @@
 | [[Articles]] |
 | [[Comedy]] |
 | [news] |
-| [[recommended_sites]] |
+| [recommended_sites](InterestingBytes/articles/recommended_sites.md) |
 
 guvhbvjbjbhjvbhjvgcftxtxtcfc
