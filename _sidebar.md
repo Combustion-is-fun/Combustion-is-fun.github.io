@@ -8,4 +8,4 @@
 
 * [About](about.md)
 
-  ####### Contact](./contact/index) ##not in use
+* [Contact](contact.md) ##not in use
