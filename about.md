@@ -1,6 +1,6 @@
 # About
 ## What this is.
-A tiny side project website made with docsify-this.
+A tiny side project website made with docsify.
 
 ## Values
 
