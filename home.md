@@ -7,7 +7,7 @@
 
 | Links |
 |--|
-| [[about]] |
+| [[about]](about.md) |
 | [[Articles]] |
 | [[Comedy]] |
 | [news] |
