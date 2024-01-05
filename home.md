@@ -11,7 +11,7 @@
 |--|
 | [about](about.md) |
 | Articles |
-| [Comedy](comedy.md) |
+| [Comedy](comedy/comedy.md) |
 | [recommended_sites](InterestingBytes/articles/recommended_sites.md) |
 
 | hello |
