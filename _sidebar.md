@@ -3,7 +3,7 @@
 
 * [HOME](./)
 
-* [InterestingBytes](./InterestingBytes/whatever)
+* [InterestingBytes](InterestingBytes/whatever.md)
   * [Tomcat](./tutorials/tomcat/index)
   * [Cloud](./tutorials/cloud/index)
   * [Java](./tutorials/java/index)
