@@ -4,7 +4,7 @@
 ### where you can do stuff
 
 
-![hello](https://images6.fanpop.com/image/photos/40500000/Minions-despicable-me-minions-40532349-4282-4000.jpg)
+![]()
 
 
 | Links |
