@@ -18,4 +18,4 @@
 |--|
 <iframe width="100" height="100" src="https://www.youtube.com/embed/Q6kJaMf3Lgo?si=Lyd2bbwIxFeTeLm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/@pbsspacetime" height="200" width="300" title="Iframe Example"></iframe>
+<iframe src="https://www.youtube.com/embed/@pbsspacetime" height="200" width="300" title="Iframe Example"></iframe>
