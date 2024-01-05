@@ -6,6 +6,6 @@
 * [InterestingBytes](InterestingBytes/whatever.md)
 
 
-* [About](./about/index)
+* [About](about.md)
 
 * [Contact](./contact/index)
