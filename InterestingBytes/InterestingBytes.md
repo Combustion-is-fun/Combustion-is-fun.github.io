@@ -12,10 +12,10 @@ bob!
 
 kevin!
 
-#### **mnion 3**
+#### **minon 3**
 
 stuart!
-#### 1
+#### **1**
 blar
 #### 2
 blar
