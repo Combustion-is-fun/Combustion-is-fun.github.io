@@ -6,7 +6,7 @@
 
 #### **minion 1**
 
-bob!
+bob! hello
 
 #### **minion 2**
 
