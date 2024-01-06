@@ -10,7 +10,7 @@
 | Links |
 |--|
 | [about](about.md) |
-| Articles |
+| [Articles](InterestingBytes/InterestingBytes.md) |
 | [Comedy](comedy/comedy.md) |
 | [recommended_sites](InterestingBytes/articles/recommended_sites.md) |
 
