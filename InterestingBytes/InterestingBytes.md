@@ -6,7 +6,7 @@
 
 #### **minion 1**
 
-bob! hello
+[Interesting bytes](InterestingBytes/articles/recommended_sites.md)
 
 #### **minion 2**
 
