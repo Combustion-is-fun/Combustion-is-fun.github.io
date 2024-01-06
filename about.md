@@ -2,7 +2,7 @@
 ## What this is.
 A tiny side project website made with docsify.
 
-## Values
+## Values +
 
 Truth and freedom including freedom of speech.
 
