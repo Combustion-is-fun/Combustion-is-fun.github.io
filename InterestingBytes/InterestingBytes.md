@@ -6,7 +6,7 @@
 
 #### **minion 1**
 
-[Interesting bytes](InterestingBytes/articles/recommended_sites.md ':Include')
+[Interesting bytes](InterestingBytes/articles/recommended_sites.md ':include')
 
 #### **minion 2**
 
@@ -22,3 +22,6 @@ blar
 #### 2
 blar
 <!-- tabs:end -->
+
+[Interesting bytes](InterestingBytes/articles/recommended_sites.md ':include')
+
