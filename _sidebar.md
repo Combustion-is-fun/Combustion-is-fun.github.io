@@ -3,8 +3,7 @@
 
 * [HOME](home.md)
 
-* [InterestingBytes](InterestingBytes/whatever.md)
-
+* [InterestingBytes]()
 
 * [About](about.md)
 
