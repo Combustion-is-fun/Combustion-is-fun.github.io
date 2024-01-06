@@ -6,7 +6,7 @@
 
 #### **minion 1**
 
-[Interesting bytes](InterestingBytes/articles/recommended_sites.md)
+[Interesting bytes](InterestingBytes/articles/recommended_sites.md ':Include')
 
 #### **minion 2**
 
