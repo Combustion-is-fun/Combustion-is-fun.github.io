@@ -23,5 +23,4 @@ blar
 blar
 <!-- tabs:end -->
 
-[Interesting bytes](InterestingBytes/articles/recommended_sites.md ':include')
 
