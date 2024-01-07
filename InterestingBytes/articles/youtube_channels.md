@@ -49,7 +49,7 @@
 * [FreedomToons](https://www.youtube.com/@FreedomToons)
 * [Ryan Long](https://www.youtube.com/@RyanLongcomedy)
 
-#### Organisations
+#### **Organisations**
 
 * [ReasonTV](https://www.youtube.com/user/ReasonTV)
 * [Prager University](https://www.youtube.com/@PragerU)
