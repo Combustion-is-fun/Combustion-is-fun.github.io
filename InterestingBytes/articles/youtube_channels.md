@@ -16,7 +16,7 @@
 
 kevin!
 
-#### **Commentry
+#### **commentary**
 
 [The Rubin Report](https://www.youtube.com/c/RubinReport/videos)
 
