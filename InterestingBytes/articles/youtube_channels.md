@@ -25,6 +25,7 @@
 * [ShoeOnHead](https://www.youtube.com/@Shoe0nHead)
 * [The Rubin Report](https://www.youtube.com/c/RubinReport/)
 * [Amala Ekpunobi](https://www.youtube.com/@TheAmalaEkpunobi)
+* [John Stossel](https://www.youtube.com/@StosselTV/videos)
 
 #### **Comedy**
 
