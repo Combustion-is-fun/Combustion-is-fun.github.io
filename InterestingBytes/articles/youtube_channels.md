@@ -19,6 +19,8 @@
 
 * [Club Random with Bill Maher](https://www.youtube.com/@ClubRandomPodcast)
 * [Triggernometry](https://www.youtube.com/@triggerpod)
+* [Lex Fridman](https://www.youtube.com/@lexfridman)
+* 
 
 #### **commentary**
 * [The Ben Shapiro show](https://www.youtube.com/@BenShapiro)
@@ -26,6 +28,8 @@
 * [The Rubin Report](https://www.youtube.com/c/RubinReport/)
 * [Amala Ekpunobi](https://www.youtube.com/@TheAmalaEkpunobi)
 * [John Stossel](https://www.youtube.com/@StosselTV/videos)
+* [Freely Ashley](https://www.youtube.com/@FreelyAshley/videos)
+* 
 
 #### **Comedy**
 
