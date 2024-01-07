@@ -1,5 +1,7 @@
 # Recommended sites
 ## Some good and useful places on the internet.
+
+Even with a browser, finding the right place on the internet can be hard. So whether you want to watch a learn something new, or watch a movie, there will be a link for you.
 | Sites |
 |----|
 | [Movieshd.watch](https://movieshd.watch/) is a free movie streaming website with pretty much anything you want. |
