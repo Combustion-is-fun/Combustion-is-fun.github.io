@@ -26,7 +26,7 @@
 
 #### **Comedy**
 
-stuart
+* [FreedomToons](https://www.youtube.com/@FreedomToons)
 
 <!-- tabs:end -->
 
