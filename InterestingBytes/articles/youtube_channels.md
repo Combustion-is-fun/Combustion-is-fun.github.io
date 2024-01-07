@@ -8,6 +8,7 @@
 
 ### General
 * [Comment Section with Brett Cooper](https://www.youtube.com/channel/UC7bYyWCCCLHDU0ZuNzGNTtg/featured)
+* [Pop Culture Crisis](https://www.youtube.com/@PopCultureCrisis)
 
 ### Film
 
@@ -32,6 +33,7 @@
 * [ShoeOnHead](https://www.youtube.com/@Shoe0nHead)
 * [The Rubin Report](https://www.youtube.com/c/RubinReport/)
 * [Amala Ekpunobi](https://www.youtube.com/@TheAmalaEkpunobi)
+* [Pegasus](https://www.youtube.com/@gigasus)
 * [John Stossel](https://www.youtube.com/@StosselTV/videos)
 * [Freely Ashley](https://www.youtube.com/@FreelyAshley/videos)
 * [Misha Petrov](https://www.youtube.com/@realmishapetrov)
