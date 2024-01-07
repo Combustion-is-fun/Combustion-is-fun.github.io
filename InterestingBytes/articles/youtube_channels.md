@@ -15,6 +15,7 @@
 * [Critical Drinker](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
 * [Despot of Antrim](https://www.youtube.com/@DespotofAntrim)
 * [Nerdrotic](https://www.youtube.com/@nerdrotic)
+* [Disparu](https://www.youtube.com/@disparutoo)
 
 ### Games
 
@@ -37,6 +38,7 @@
 * [John Stossel](https://www.youtube.com/@StosselTV/videos)
 * [Freely Ashley](https://www.youtube.com/@FreelyAshley/videos)
 * [Misha Petrov](https://www.youtube.com/@realmishapetrov)
+* [Paul Joseph Watson](https://www.youtube.com/@PrisonPlanetLive)
 
 #### **Comedy**
 
