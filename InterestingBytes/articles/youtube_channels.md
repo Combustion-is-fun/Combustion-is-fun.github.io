@@ -42,6 +42,7 @@
 * [Freely Ashley](https://www.youtube.com/@FreelyAshley/videos)
 * [Misha Petrov](https://www.youtube.com/@realmishapetrov)
 * [Paul Joseph Watson](https://www.youtube.com/@PrisonPlanetLive)
+* [Brad_Polumbo](https://www.youtube.com/@Brad_Polumbo)
 
 #### **Comedy**
 
