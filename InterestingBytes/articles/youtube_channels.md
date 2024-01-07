@@ -24,6 +24,7 @@
 * [The Ben Shapiro show](https://www.youtube.com/@BenShapiro)
 * [ShoeOnHead](https://www.youtube.com/@Shoe0nHead)
 * [The Rubin Report](https://www.youtube.com/c/RubinReport/)
+* [Amala Ekpunobi](https://www.youtube.com/@TheAmalaEkpunobi)
 
 #### **Comedy**
 
