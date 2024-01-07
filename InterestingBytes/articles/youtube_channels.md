@@ -21,6 +21,7 @@
 * [Triggernometry](https://www.youtube.com/@triggerpod)
 * [Lex Fridman](https://www.youtube.com/@lexfridman)
 * [The Ice coffee hour](https://www.youtube.com/@TheIcedCoffeeHour)
+* [Jordan Peterson](https://www.youtube.com/@JordanBPeterson)
 * [Chris Williamson](https://www.youtube.com/@ChrisWillx)
 * 
 
@@ -31,7 +32,7 @@
 * [Amala Ekpunobi](https://www.youtube.com/@TheAmalaEkpunobi)
 * [John Stossel](https://www.youtube.com/@StosselTV/videos)
 * [Freely Ashley](https://www.youtube.com/@FreelyAshley/videos)
-* 
+* [Misha Petrov](https://www.youtube.com/@realmishapetrov)
 
 #### **Comedy**
 
