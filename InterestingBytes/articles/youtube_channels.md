@@ -21,8 +21,8 @@
 * [Triggernometry](https://www.youtube.com/@triggerpod)
 
 #### **commentary**
-[The Ben Shapiro show](https://www.youtube.com/@BenShapiro)
-[The Rubin Report](https://www.youtube.com/c/RubinReport/videos)
+* [The Ben Shapiro show](https://www.youtube.com/@BenShapiro)
+* [The Rubin Report](https://www.youtube.com/c/RubinReport/videos)
 
 #### **Comedy**
 
