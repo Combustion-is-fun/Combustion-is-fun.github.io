@@ -6,10 +6,10 @@
 
 #### **Pop culture**
 
-## General
+### General
 [Comment Section with Brett Cooper](https://www.youtube.com/channel/UC7bYyWCCCLHDU0ZuNzGNTtg/featured)
-## Film
-## Games
+### Film
+### Games
 
 #### **Podcasts**
 
