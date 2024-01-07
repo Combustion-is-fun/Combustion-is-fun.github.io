@@ -57,6 +57,7 @@
 * [Prager University](https://www.youtube.com/@PragerU)
 * [Atlas society](https://www.youtube.com/@TheAtlasSociety)
 * [Cato Institute](https://www.youtube.com/@catoinstitutevideo)
+* [Turning Point USA](https://www.youtube.com/@turningpointusa)
 
 
 <!-- tabs:end -->
