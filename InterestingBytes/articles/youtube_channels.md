@@ -11,7 +11,9 @@
 
 ### Film
 
-[Critical Drinker](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
+* [Critical Drinker](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
+* [Despot of Antrim](https://www.youtube.com/@DespotofAntrim)
+* [Nerdrotic](https://www.youtube.com/@nerdrotic)
 
 ### Games
 
