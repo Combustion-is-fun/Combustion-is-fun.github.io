@@ -21,6 +21,7 @@
 * [Triggernometry](https://www.youtube.com/@triggerpod)
 * [Lex Fridman](https://www.youtube.com/@lexfridman)
 * [The Ice coffee hour](https://www.youtube.com/@TheIcedCoffeeHour)
+* [Chris Williamson](https://www.youtube.com/@ChrisWillx)
 * 
 
 #### **commentary**
