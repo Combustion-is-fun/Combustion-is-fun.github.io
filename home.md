@@ -14,6 +14,5 @@
 | [Comedy](comedy/comedy.md) |
 | [recommended_sites](InterestingBytes/articles/recommended_sites.md) |
 
-| hello |
-|--|
+
 
