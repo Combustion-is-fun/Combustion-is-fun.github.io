@@ -42,6 +42,8 @@
 
 * [Content Machine](https://www.youtube.com/@content_machine)
 * [FreedomToons](https://www.youtube.com/@FreedomToons)
+* [Ryan Long](https://www.youtube.com/@RyanLongcomedy)
+
 
 <!-- tabs:end -->
 
