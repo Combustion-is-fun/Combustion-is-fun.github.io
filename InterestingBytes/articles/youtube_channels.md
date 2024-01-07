@@ -20,6 +20,7 @@
 * [Club Random with Bill Maher](https://www.youtube.com/@ClubRandomPodcast)
 * [Triggernometry](https://www.youtube.com/@triggerpod)
 * [Lex Fridman](https://www.youtube.com/@lexfridman)
+* [The Ice coffee hour](https://www.youtube.com/@TheIcedCoffeeHour)
 * 
 
 #### **commentary**
