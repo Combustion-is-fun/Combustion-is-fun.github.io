@@ -7,15 +7,18 @@
 #### **Pop culture**
 
 ### General
-[Comment Section with Brett Cooper](https://www.youtube.com/channel/UC7bYyWCCCLHDU0ZuNzGNTtg/featured)
+* [Comment Section with Brett Cooper](https://www.youtube.com/channel/UC7bYyWCCCLHDU0ZuNzGNTtg/featured)
+
 ### Film
+
 [Critical Drinker](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
+
 ### Games
 
 #### **Podcasts**
 
-[Club Random with Bill Maher](https://www.youtube.com/@ClubRandomPodcast)
-[Triggernometry](https://www.youtube.com/@triggerpod)
+* [Club Random with Bill Maher](https://www.youtube.com/@ClubRandomPodcast)
+* [Triggernometry](https://www.youtube.com/@triggerpod)
 
 #### **commentary**
 
