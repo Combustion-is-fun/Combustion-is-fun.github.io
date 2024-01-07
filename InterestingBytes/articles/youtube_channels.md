@@ -22,10 +22,12 @@
 
 #### **commentary**
 * [The Ben Shapiro show](https://www.youtube.com/@BenShapiro)
+* [ShoeOnHead](https://www.youtube.com/@Shoe0nHead)
 * [The Rubin Report](https://www.youtube.com/c/RubinReport/)
 
 #### **Comedy**
 
+* [Content Machine](https://www.youtube.com/@content_machine)
 * [FreedomToons](https://www.youtube.com/@FreedomToons)
 
 <!-- tabs:end -->
