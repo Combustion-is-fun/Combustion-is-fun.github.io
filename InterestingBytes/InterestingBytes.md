@@ -6,6 +6,7 @@
 #### **minion 1**
 
 [Recommended sites](InterestingBytes/articles/recommended_sites.md)
+[Recommended Youtube Channels](InterestingBytes/articles/youtube_channels)
 
 #### **minion 2**
 
