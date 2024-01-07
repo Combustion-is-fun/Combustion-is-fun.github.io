@@ -15,6 +15,7 @@
 #### **Podcasts**
 
 [Club Random with Bill Maher](https://www.youtube.com/@ClubRandomPodcast)
+[Triggernometry](https://www.youtube.com/@triggerpod)
 
 #### **commentary**
 
