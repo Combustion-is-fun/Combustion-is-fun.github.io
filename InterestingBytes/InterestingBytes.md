@@ -3,7 +3,7 @@
 
 <!-- tabs:start -->
 
-#### **minion 1**
+#### **Recommendations**
 
 * [Recommended sites](InterestingBytes/articles/recommended_sites.md)
 * [Recommended Youtube Channels](InterestingBytes/articles/youtube_channels.md)
