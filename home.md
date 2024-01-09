@@ -5,27 +5,4 @@
 
 
 
-
-
-| Links |
-|--|
-| [about](about.md) |
-| [Articles](InterestingBytes/InterestingBytes.md) |
-| [Comedy](comedy/comedy.md) |
-| [recommended_sites](InterestingBytes/articles/recommended_sites.md) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-Mine
+start the paragraph ...
