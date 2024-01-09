@@ -9,6 +9,6 @@ Truth and freedom including freedom of speech.
 created 29/12/2023
 
 
-<script src="//unpkg.com/docsify-accordify/src/index.js"></script>
 
-[](InterestingBytes/articles/recommended_sites.md ':include :type=code')
+
+![](InterestingBytes/articles/recommended_sites.md ':include :type=code')
