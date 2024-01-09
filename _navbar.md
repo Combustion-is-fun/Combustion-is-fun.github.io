@@ -8,9 +8,6 @@
   - [Custom navbar]()
   - [Cover page]()
 
-- Configuration
-  - [Configuration]()
-  - [Themes]()
-  - [Using plugins]()
-  - [Markdown configuration]()
-  - [Language highlight]()
+- Normal stuff
+  - [About](about.md)
+  - [Contact](contact.md)
