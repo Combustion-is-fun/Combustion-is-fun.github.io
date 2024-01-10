@@ -7,7 +7,7 @@ You will soon realise that I am a fan of ProtonAG and the software they develop 
 ### Messager Apps
 
 #### Signal
-Signal is the best end-to-end encrypted messaging app. Well, that is a big claim, what about WhatsApp? Well, the thing is, Whatsapp is end-to-end encrypted, however, is owned by the big tech giant Meta, it is within the realm of possibility that a "backdoor" was coded in just for every wannabe tyrant in every state surveillance agency going.
+Signal is the best end-to-end encrypted messaging app. Well, that is a big claim, what about WhatsApp? Well, the thing is, Whatsapp is end-to-end encrypted, however, is owned by the big tech giant Meta, it is within the realm of possibility that a "backdoor" was coded in just for every wannabe tyrant in every state surveillance agency going. It has been independently verified as what it reports.
 
 ### Email
 Keep your email safe!
