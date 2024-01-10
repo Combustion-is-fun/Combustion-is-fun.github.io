@@ -13,8 +13,7 @@
 Unpopular opinions
 
 #### **How to's**
-
-stuart!
+[How to protect your online privacy](InterestingBytes/articles/Online privacy)
 #### **1**
 blar
 #### **2**
