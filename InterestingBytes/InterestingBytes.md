@@ -11,6 +11,7 @@
 #### **Opinions**
 
 Unpopular opinions
+* [Why the yanks are right about guns](InterestingBytes/articles/guns.md)
 
 #### **How to's**
 * [How to protect your online privacy](InterestingBytes/articles/online_privacy.md)
