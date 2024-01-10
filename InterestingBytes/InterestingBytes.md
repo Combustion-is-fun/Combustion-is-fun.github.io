@@ -13,7 +13,7 @@
 Unpopular opinions
 
 #### **How to's**
-[How to protect your online privacy](InterestingBytes/articles/Online privacy)
+[How to protect your online privacy](InterestingBytes/articles/online_privacy.md)
 #### **1**
 blar
 #### **2**
