@@ -20,6 +20,10 @@
 
 #### Proton Pass
 
+### Cloud storage
+
+#### Proton Drive
+
 ### Browsers
 
 #### Brave
