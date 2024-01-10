@@ -1,7 +1,7 @@
 # Digital Privacy
 
-In this article 
-For more information, an invaluable resource is the YouTube channel [All Things Secured](https://www.youtube.com/@AllThingsSecured). It is important to note that you will never reach 100% digital security or privacy and that most compromises to such will come from **you**!
+In this article, we will discuss some steps on the software and hardware front to protect your online activities. It is important to note that you will never reach 100% digital security or privacy and that most compromises to such will come from **you**!
+For more information, an invaluable resource is the YouTube channel [All Things Secured](https://www.youtube.com/@AllThingsSecured). 
 ## Software
 You will soon realise that I am a fan of ProtonAG and the software they develop as well as Signal and the browsers I use.
 ### Messager Apps
