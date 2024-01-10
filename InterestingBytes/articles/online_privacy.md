@@ -32,4 +32,12 @@ You will soon realise that I am a fan on ProtonAG and the software they develop 
 
 ## Hardware
 
-###
+### Phone and Tablet
+There is no doubt in my mind that the solution for most people is android. Apple is not to be trusted on software and hardware. With collaberation with Governments and slow speeds, the Iphone is a flashy and expensive but not efficient or private way to call and text people. Whilst there are alternative (GrapheneOS, and linux phones), these are difficult to set up and or expensive. Thats why android phones are the best and most accessable for privacy.
+
+### Laptop
+
+
+### Personal Computer
+
+
