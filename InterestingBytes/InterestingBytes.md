@@ -14,6 +14,7 @@ Unpopular opinions
 
 #### **How to's**
 [How to protect your online privacy](InterestingBytes/articles/online_privacy.md)
+[How to tell someone to f$&k off!]()
 #### **1**
 blar
 #### **2**
