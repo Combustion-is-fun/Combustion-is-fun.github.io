@@ -20,18 +20,19 @@ Available only as an app.
 ### Password manager
 
 #### Proton Pass
-
+Available as a browser extention.
 ### Cloud storage
-
+Available as a web app.
 #### Proton Drive
+Available as a web app.
 
 ### Browsers
 
 #### Brave
-
+Available only as an app.
 #### The Onion Router
 The Onion Router, commonly known as Tor.
-
+Available only as an app.
 ## Hardware
 
 ### Phone and Tablet
