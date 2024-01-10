@@ -12,7 +12,7 @@
 
 Unpopular opinions
 
-#### **minon 3**
+#### **How to's**
 
 stuart!
 #### **1**
