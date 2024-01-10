@@ -20,7 +20,7 @@ Available only as an app.
 ### Password manager
 
 #### Proton Pass
-Available as a browser extention.
+Available as a browser extension.
 ### Cloud storage
 Available as a web app.
 #### Proton Drive
