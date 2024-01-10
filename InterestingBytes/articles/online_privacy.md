@@ -7,9 +7,10 @@ You will soon realise that I am a fan on ProtonAG and the software they develop 
 ### Messagers
 
 #### Signal
+Signal is in my opinion the best end-to-end encrypted messaging app. Well thats a big claim, what about Whatsapp? Well the thing is, Whatsapp is end-to-end encrypted, however being owned by the big tech giant meta, it is within the relm of possibility that a "backdoor" was coded in just for every wannabe tyrant in every state surveilance agency going.
 
 ### Email
-
+Keep your email safe!
 #### Proton Mail
 
 ### Virtual Private Network
@@ -29,6 +30,7 @@ You will soon realise that I am a fan on ProtonAG and the software they develop 
 #### Brave
 
 #### The Onion Router
+The Onion Router, commonly known as tor.
 
 ## Hardware
 
