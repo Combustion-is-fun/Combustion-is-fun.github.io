@@ -44,3 +44,6 @@ A full Linux laptop wins the privacy battle obviously. However, there is a compr
 ### Personal Computer
 Here there is no excuse! privacy options are easy to get and relatively cheap. All the options are Linux-based. some are simple and easy like Ubuntu or Debian, and some are fun like RasberryPi. With the rise in web apps, there is absolutely no need for a Windows or Apple Mac. Not to mention your privacy cannot afford it.
 
+### Offline Data storage
+There are special USB sticks and SSDs which have number pads and are already encrypted. They are, however, expensive and mostly used for cryptocurrency (which is another topic). It is possible to take a plain SSD and password encrypt a portion (or the whole thing) using Veracrypt. Just having external file storage is added security because your files are spread out meaning if your device becomes compromised, your files are not.
+
