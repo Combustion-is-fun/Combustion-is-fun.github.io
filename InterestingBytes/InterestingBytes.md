@@ -17,9 +17,9 @@ Unpopular opinions
 stuart!
 #### **1**
 blar
-#### 2
+#### **2**
 blar
-#### 2
+#### **3**
 blar
 <!-- tabs:end -->
 
