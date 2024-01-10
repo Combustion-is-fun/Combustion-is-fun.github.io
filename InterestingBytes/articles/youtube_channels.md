@@ -2,6 +2,7 @@
 
 ## Different opinions, different perspectives.
 
+![](https://logolook.net/wp-content/uploads/2021/06/Symbol-Youtube.png)
 <!-- tabs:start -->
 
 #### **Pop culture**
