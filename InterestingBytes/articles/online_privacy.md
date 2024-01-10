@@ -12,11 +12,11 @@ Signal is the best end-to-end encrypted messaging app. Well, that is a big claim
 ### Email
 Keep your email safe!
 #### Proton Mail
-
+Available as a web app.
 ### Virtual Private Network
 
 #### Proton VPN
-
+Available only as an app.
 ### Password manager
 
 #### Proton Pass
