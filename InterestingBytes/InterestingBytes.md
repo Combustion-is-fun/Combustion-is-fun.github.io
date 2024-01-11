@@ -20,7 +20,7 @@ Unpopular opinions
 #### **Skills**
 blar
 #### **National Policy**
-Decent policy for any nation that no one will listen to.
+A series of short articles of decent policy for any nation that no one will listen to.
 ### Social
 1. [Education]()
 2. [Healthcare]()
