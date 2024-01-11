@@ -27,6 +27,8 @@ blar
 
 + My great accordion +
 
-Peekaboo!
+  Peekaboo!
++ My great accordion +
 
+  Peekaboo!
 
