@@ -20,15 +20,32 @@ Unpopular opinions
 #### **Skills**
 blar
 #### **National Policy**
-blar
+Good policy for any nation that no one will listen to.
+### Social
+1. [Education]()
+2. [Healthcare]()
+### Economic
+1.
+2.  [Taxation]()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+### Resource management
+1. [water]()
+2. [Farming]()
+3. [Energy]()
+4. 
 #### **3**
 
 + My great accordion +
 
-  Peekaboo!
+  - Peekaboo!
 + My great accordion +
 
-  Peekaboo!
+  - Peekaboo!
 <!-- tabs:end -->
 
 
