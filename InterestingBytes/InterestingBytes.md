@@ -20,10 +20,13 @@ Unpopular opinions
 #### **Skills**
 blar
 #### **National Policy**
-Good policy for any nation that no one will listen to.
+Decent policy for any nation that no one will listen to.
 ### Social
 1. [Education]()
 2. [Healthcare]()
+3. [Religion]()
+4. [Family]()
+5. [Substances]()
 ### Economic
 1.
 2.  [Taxation]()
@@ -35,9 +38,15 @@ Good policy for any nation that no one will listen to.
 8. []()
 ### Resource management
 1. [water]()
-2. [Farming]()
+2. [Agricultural]()
 3. [Energy]()
-4. 
+4. [Mineral resources]()
+5. [Waste Management]()
+### Policing
+1. [Internal Policing]()
+2. [External Policing]()
+
+
 #### **3**
 
 + My great accordion +
