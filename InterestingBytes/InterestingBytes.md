@@ -3,7 +3,7 @@
 ## A blog to get you thinking.
 <!-- tabs:start -->
 
-#### **Recommendations**
+#### **Recommended**
 
 * [Recommended sites](InterestingBytes/articles/recommended_sites.md)
 * [Recommended Youtube Channels](InterestingBytes/articles/youtube_channels.md)
@@ -17,9 +17,9 @@ Unpopular opinions
 * [How to protect your online privacy](InterestingBytes/articles/online_privacy.md)
 * [How to tell someone to f$&k off!]()
 * 
-#### **1**
+#### **Skills**
 blar
-#### **2**
+#### ****
 blar
 #### **3**
 
