@@ -22,10 +22,10 @@ blar
 #### **National Policy**
 A series of short articles of decent policy for any nation that no one will listen to.
 ### Social
-1. [Education]()
-2. [Healthcare]()
-3. [Religion]()
-4. [Family]()
+1. [Education](InterestingBytes/articles/national_policy/education.md)
+2. [Healthcare](InterestingBytes/articles/national_policy/healthcare.md)
+3. [Religion](InterestingBytes/articles/national_policy/religion.md)
+4. [Family](InterestingBytes/articles/national_policy/family.md)
 5. [Substances]()
 ### Economic
 1.
