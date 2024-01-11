@@ -21,14 +21,15 @@ blar
 #### **2**
 blar
 #### **3**
-blar
+
++ My great accordion +
+
+  Peekaboo!
++ My great accordion +
+
+  Peekaboo!
 <!-- tabs:end -->
 
 
-+ My great accordion +
 
-  Peekaboo!
-+ My great accordion +
-
-  Peekaboo!
 
