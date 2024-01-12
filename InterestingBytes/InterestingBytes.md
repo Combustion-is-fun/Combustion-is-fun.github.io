@@ -21,6 +21,7 @@ Unpopular opinions
 blar
 #### **National Policy**
 A series of short articles of decent policy for any nation that no one will listen to.
+[Purpose](InterestingBytes/articles/national_policy/purpose.md)
 ### Social
 1. [Education](InterestingBytes/articles/national_policy/education.md)
 2. [Healthcare](InterestingBytes/articles/national_policy/healthcare.md)
