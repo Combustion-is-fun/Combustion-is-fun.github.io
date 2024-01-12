@@ -29,9 +29,10 @@ A series of short articles of decent policy for any nation that no one will list
 4. [Family](InterestingBytes/articles/national_policy/family.md)
 5. [Substances]()
 ### Economic
-1.
-2.  [Taxation]()
-3. []()
+Where does the money come from?
+1. [Taxation]()
+2. [Debt]()
+3. [Money Printing]()
 4. []()
 5. []()
 6. []()
