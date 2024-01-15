@@ -21,7 +21,7 @@ Unpopular opinions
 blar
 #### **National Policy**
 A series of short articles of decent policy for any nation that no one will listen to.
-[Purpose](InterestingBytes/articles/national_policy/purpose.md)
+* [Purpose](InterestingBytes/articles/national_policy/purpose.md)
 ### Social
 1. [Education](InterestingBytes/articles/national_policy/education.md)
 2. [Healthcare](InterestingBytes/articles/national_policy/healthcare.md)
@@ -33,13 +33,13 @@ Where does the money come from?
 1. [Taxation]()
 2. [Debt]()
 3. [Money Printing]()
-4. []()
-5. []()
-6. []()
-7. []()
+4. [Soveign Wealth Fund]()
+5. [Privatisation and Decentralisation]()
+6. [Regulation]()
+7. [Welfare state]()
 8. []()
 ### Resource management
-1. [water]()
+1. [Water]()
 2. [Agricultural]()
 3. [Energy]()
 4. [Mineral resources]()
