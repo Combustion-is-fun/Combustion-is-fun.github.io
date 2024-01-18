@@ -32,7 +32,7 @@ A series of short articles of decent policy for any nation that no one will list
 Where does the money come from?
 1. [Taxation](InterestingBytes/articles/national_policy/taxation.md)
 2. [Debt and Government borrowing]()
-3. [Money Printing]()
+3. [Currency]()
 4. [Soveign Wealth Fund]()
 5. [Privatisation and Decentralisation]()
 6. [Regulation]()
