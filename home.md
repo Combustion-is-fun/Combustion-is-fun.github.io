@@ -8,10 +8,10 @@
 start the paragraph ...
 
 
-+ blar +
++ **blar** +
   - blar
   - blar
   - blar
 + blar +
-  blar
-  blar
+  - blar
+  - blar
