@@ -39,7 +39,7 @@ Where does the money come from?
 7. [Welfare state]()
 8. []()
 ### Resource management
-1. [Water]()
+1. [Water](InterestingBytes/articles/national_policy/water_management.md)
 2. [Agricultural]()
 3. [Energy]()
 4. [Mineral resources]()
