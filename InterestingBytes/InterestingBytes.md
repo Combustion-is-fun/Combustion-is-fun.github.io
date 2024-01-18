@@ -46,7 +46,7 @@ Where does the money come from?
 5. [Waste Management]()
 ### Policing
 1. [Internal Policing](InterestingBytes/articles/national_policy/internal_policing.md)
-2. [External Policing]()
+2. [External Policing](InterestingBytes/articles/national_policy/external_policing.md)
 
 
 #### **3**
