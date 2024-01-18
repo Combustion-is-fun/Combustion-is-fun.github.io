@@ -45,7 +45,7 @@ Where does the money come from?
 4. [Mineral resources]()
 5. [Waste Management]()
 ### Policing
-1. [Internal Policing]()
+1. [Internal Policing](InterestingBytes/articles/national_policy/internal_policing.md)
 2. [External Policing]()
 
 
