@@ -19,12 +19,6 @@ start the paragraph ...
   - blar
   - blar
 
-
-
-# FAQ Section
-
-Introduction text for the FAQ page.
-
 + Question 1? +
 
   Answer 1
