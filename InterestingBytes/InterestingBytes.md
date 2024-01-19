@@ -59,6 +59,7 @@ Where does the money come from?
 + My great accordion +
 
   - Peekaboo!
+  - hello
 
 <!-- tabs:end -->
 
