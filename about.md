@@ -40,3 +40,15 @@ created 29/12/2023
 <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
 <py-script> print("Hello, World!") </py-script>
 
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="green">
+    Markdown css styles
+</div>
+
