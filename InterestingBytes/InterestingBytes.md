@@ -3,7 +3,7 @@
 ## A blog to get you thinking.
 <!-- tabs:start -->
 
-#### ****
+#### **Welcome**
 
 Welcome to Interesting Bytes!!!
 
