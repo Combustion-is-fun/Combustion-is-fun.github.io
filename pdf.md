@@ -5,6 +5,6 @@
 [Particles and Radiation](documents/Detailed Notes - Section 02 Particles and Radiation - AQA Physics A-Level.pdf)
 
 '''pdf
-        documents/Detailed Notes - Section 02 Particles and Radiation - AQA Physics A-Level.pdf
+documents/Detailed Notes - Section 02 Particles and Radiation - AQA Physics A-Level.pdf
 
 '''
