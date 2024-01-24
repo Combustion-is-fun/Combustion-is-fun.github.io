@@ -2,7 +2,8 @@
 
 <style>
   #mypdf {
-    width: 85%
+    width: 85%;
+    hight: 300px;
   }
 </style>
 
