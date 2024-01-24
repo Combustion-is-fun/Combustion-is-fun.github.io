@@ -15,6 +15,12 @@
 created 29/12/2023
 
 
+<details>
+<summary>Self-assessment (Click to expand)</summary>
 
+- Abc
+- Abc
+
+</details>
 
 ![](InterestingBytes/articles/recommended_sites.md ':include')
