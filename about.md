@@ -20,7 +20,7 @@ Self-assessment (Click to expand)
 
 - Abc
 - Abc
-
+</details>
 
 
 
