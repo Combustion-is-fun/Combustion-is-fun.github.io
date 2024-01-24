@@ -16,7 +16,7 @@ created 29/12/2023
 
 
 <details>
-<summary> <h3>Self-assessment (Click to expand)</h3> </summary>
+<h3>Self-assessment (Click to expand)</h3>
 
 - Abc
 - Abc
