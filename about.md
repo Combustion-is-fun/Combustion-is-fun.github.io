@@ -31,7 +31,11 @@ created 29/12/2023
 
 </div>
 
-<div style='color: blue'> ### hello <div>
+<div style='color: blue'> 
+  
+  ### hello world
+  
+<div>
 <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />
 <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
 <py-script> print("Hello, World!") </py-script>
