@@ -30,7 +30,9 @@ created 29/12/2023
 - listitem
 
 </div>
+
+<div style='color: blue'> ### hello <div>
 <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />
 <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
 <py-script> print("Hello, World!") </py-script>
-<p>hello</p>
+
