@@ -2,7 +2,7 @@
 
 + ## What this is. +
 
-  ==A tiny side project website made with Docsify.==
+  A tiny side project website made with Docsify.
 
 + ## The name +
 
@@ -40,4 +40,4 @@ Self-assessment (Click to expand)
     Markdown css styles
 </div>
 
-###### How big is this?
+###### ==How big is this?==
