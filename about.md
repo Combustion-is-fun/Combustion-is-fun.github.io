@@ -42,4 +42,4 @@ Self-assessment (Click to expand)
 
 ##### How big is this?
 
-<object data="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" type="application/pdf" width="100%" height="500px"></object>
+<object data="" type="application/pdf" width="100%" height="500px"></object>
