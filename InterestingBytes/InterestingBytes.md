@@ -9,7 +9,7 @@ Welcome to Interesting Bytes!!!
 
 #### **Recommended**
 
-* [Recommended sites](InterestingBytes/articles/recommended_sites.md)
+* [Recommended sites](InterestingBytes/articles/recommended_sites/recommended_sites.md)
 * [Recommended Youtube Channels](InterestingBytes/articles/youtube_channels.md)
 
 #### **Opinions**
