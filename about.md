@@ -2,7 +2,7 @@
 
 + ## What this is. +
 
-  A tiny side project website made with Docsify.
+  ==A tiny side project website made with Docsify.==
 
 + ## The name +
 
