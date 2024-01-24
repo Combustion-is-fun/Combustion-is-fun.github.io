@@ -31,4 +31,4 @@ created 29/12/2023
 
 </div>
 
-<body> <py-script> print("Hello, World!") </py-script> </body>
+<py-script> print("Hello, World!") </py-script>
