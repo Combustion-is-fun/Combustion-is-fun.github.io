@@ -9,4 +9,4 @@
 
 
 
-<embed src=“Combustion-is-fun.github.io/documents/Detailed Notes - Section 02 Particles and Radiation - AQA Physics A-Level.pdf” width=”80%” height=”500px”></embed>
+<object data="/documents/Detailed Notes - Section 02 Particles and Radiation - AQA Physics A-Level.pdf" type="application/pdf" width="90%" height="500px"></object>
