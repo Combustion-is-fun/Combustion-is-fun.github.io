@@ -11,6 +11,7 @@ Welcome to Interesting Bytes!!!
 
 * [Recommended sites](InterestingBytes/articles/recommended_sites/recommended_sites.md)
 * [Recommended Youtube Channels](InterestingBytes/articles/youtube_channels.md)
+* [Recommended reading](InterestingBytes/articles/recommended_reading/recommended_reading.md)
 
 #### **Opinions**
 
