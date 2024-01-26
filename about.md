@@ -24,10 +24,6 @@ Self-assessment (Click to expand)
 
 
 
-<link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />
-<script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
-<py-script> print("Hello, World!") </py-script>
-
 <style>
 .green {
     color: green;
