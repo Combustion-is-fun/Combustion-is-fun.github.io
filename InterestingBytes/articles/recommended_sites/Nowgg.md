@@ -3,6 +3,10 @@
 ### Don't let your device or OS control what you can play
 
 
+
+![](https://cdn.now.gg/apps-content/img/logo-white.png)
+
+
 ### Minecraft
 [Minecraft](https://now.gg/apps/mojang/2534/minecraft-trial.html)
 
