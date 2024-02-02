@@ -1,6 +1,6 @@
 
 
-<div style="font-family: Serif;">
+<div style="Times New Roman", Times, serif;>
   
 # New
 ## example text
