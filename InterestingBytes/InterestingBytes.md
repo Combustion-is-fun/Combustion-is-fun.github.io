@@ -13,6 +13,13 @@ Welcome to Interesting Bytes!!!
 * [Recommended Youtube Channels](InterestingBytes/articles/youtube_channels.md)
 * [Recommended reading](InterestingBytes/articles/recommended_reading/recommended_reading.md)
 
+#### **Technology**
+
+* Virtual Private Networks
+* The Onion Router and accociated applications
+* How to get the most out of your Rasberry pi
+
+
 #### **Opinions**
 
 Unpopular opinions
