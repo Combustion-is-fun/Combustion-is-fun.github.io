@@ -14,28 +14,28 @@ start the paragraph ...
 
 - Abc
 - Abc
-- 
+
 </details>
 <details>
 <summary>Hello</summary>
 
 - Abc
 - Abc
-- 
+
 </details>
 <details>
 <summary>Hello</summary>
 
 - Abc
 - Abc
-- 
+
 </details>
 <details>
 <summary>Hello</summary>
 
 - Abc
 - Abc
-- 
+
 </details>
 
 
