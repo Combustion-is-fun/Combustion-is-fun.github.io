@@ -32,3 +32,4 @@ start the paragraph ...
 
 hello
 '''
+<button type="button">Click Me!</button>
