@@ -29,3 +29,5 @@
 ### Aptoid
 #### App store over the Web on Now.gg
 
+[Spotify](https://now.gg/apps/spotify-ab/1433/spotify-music-podcasts-lit.html)
+
