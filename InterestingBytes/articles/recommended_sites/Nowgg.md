@@ -4,7 +4,8 @@
 
 
 
-![](https://cdn.now.gg/apps-content/img/logo-white.png)
+![image](https://github.com/Combustion-is-fun/Combustion-is-fun.github.io/assets/155193612/01113373-8cf4-4e54-97c4-5b2613d8d00a)
+
 
 
 ### Minecraft
