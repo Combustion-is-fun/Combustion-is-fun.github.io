@@ -16,23 +16,24 @@ created 29/12/2023
 
 
 <details>
-Self-assessment (Click to expand)
+<summary>Hello</summary>
 
 - Abc
 - Abc
+- 
 </details>
 
 
 
 <style>
-.green {
-    color: green;
+.blue {
+    color: blue;
     font-weight:700;
     font-size: 30px;
 }
 </style>
 
-<div class="green">
+<div class="blue">
     Markdown css styles
 </div>
 
