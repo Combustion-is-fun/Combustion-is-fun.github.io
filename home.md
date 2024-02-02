@@ -28,4 +28,7 @@ start the paragraph ...
   Answer 2
 
 
-<object data="/InterestingBytes/articles/national_policy/taxation.md" type="text/markdown" width="90%" height="500px"></object>
+'''markup
+
+hello
+'''
