@@ -19,3 +19,7 @@
 [Among Us](https://now.gg/apps/innersloth-llc/4047/among-us.html)
 
 ### Fortnight
+
+
+### Call of Duty Mobile
+[Call of Duty Mobile](https://now.gg/apps/activision-publishing-inc/7935/call-of-duty.html)
