@@ -40,9 +40,5 @@ start the paragraph ...
 
 
 
-'''html
-
-<p>hello</p>
-
-'''
+[new](new_thing.md)
 <button type="button">Click Me!</button>
