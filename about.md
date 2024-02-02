@@ -39,4 +39,4 @@ created 29/12/2023
 
 ##### How big is this?
 
-<object data="/documents/Detailed Notes - Section 02 Particles and Radiation - AQA Physics A-Level.pdf" type="application/pdf" width="90%" height="500px"></object>
+<object data="/documents/Detailed Notes - Section 02 Particles and Radiation - AQA Physics A-Level.pdf" type="application/pdf" width="100%" height="500px"></object>
