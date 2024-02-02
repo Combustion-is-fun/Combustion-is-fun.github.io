@@ -24,10 +24,13 @@
 ### Call of Duty Mobile
 [Call of Duty Mobile](https://now.gg/apps/activision-publishing-inc/7935/call-of-duty.html)
 
+[Playstation](https://now.gg/apps/playstation-mobile-inc/2617/playstation-app.html)
+
 ## Apps
 
 ### Aptoid
 #### App store over the Web on Now.gg
 
 [Spotify](https://now.gg/apps/spotify-ab/1433/spotify-music-podcasts-lit.html)
+[CapCut](https://now.gg/apps/bytedance-pte-ltd/1404/capcut-video-editor.html)
 
