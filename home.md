@@ -39,6 +39,6 @@ start the paragraph ...
 </details>
 
 
-[Interesting Bytes](InterestingBytes/articles/InterestingBytes.md) Blog
+[Interesting Bytes](InterestingBytes/InterestingBytes.md) Blog
 [new](new_thing.md)
 <button type="button">Click Me!</button>
